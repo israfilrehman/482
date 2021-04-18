@@ -1,0 +1,54 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+nav
+{
+    height: 50px;
+    background-color: #95a5a6;
+    
+
+}
+
+nav ul
+{
+    list-style: none;
+}
+
+nav ul li a
+{
+    float: left;
+    color: #fff;
+    padding: 0 50px;
+    text-decoration: none;
+    line-height: 40px;
+}
+
+nav ul li :hover
+{
+    background: #273c75;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 10px;
+  }
+  table {
+    border-spacing: 5px;
+  }
+
+  img
+  {  
+      width:300px;
+      margin: 0px;
+  }
+  button{
+    font-size:20px;
+    background-color:#4CAF50;
+    line-height: 40px;
+    font-weight: bold;
+  }

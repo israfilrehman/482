@@ -1,0 +1,48 @@
+body
+{
+    background-color: #7f8fa6;
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+nav
+{
+    height: 50px;
+    background-color: #273c75;
+    
+
+}
+
+nav ul
+{
+    list-style: none;
+}
+
+nav ul li a
+{
+    float: left;
+    color: #fff;
+    padding: 0 50px;
+    text-decoration: none;
+    line-height: 40px;
+}
+
+nav ul li :hover
+{
+    background: #273c75;
+}
+#div1{
+    width: 500px;
+    height: 300px;
+	margin: 20px auto;
+	background-color:white;
+	padding:5px;
+	border-radius: 10px;
+	border: 3px solid #1abc9c;
+}
+#div2{
+    width: 400px;
+    margin: 0 auto;
+}
